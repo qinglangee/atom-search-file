@@ -1,2 +1,5 @@
-# atom-search-file
-search file from atom
+# atom-search-file package
+
+Search file name from edit history and custom directories.
+
+![atom-search-file](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)

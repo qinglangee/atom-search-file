@@ -1,0 +1,18 @@
+{
+  "name": "atom-search-file",
+  "main": "./lib/atom-search-file",
+  "version": "0.0.1",
+  "description": "Search file name from edit history and custom directories.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-search-file:toggle"
+  },
+  "repository": "https://github.com/qinglangee/atom-search-file.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
